@@ -1,0 +1,109 @@
+/* .pikachu{
+    background-color: lightgreen;
+    border: 2px solid black;
+    border-radius: 6px;
+    line-height: 80px;
+    text-align: center;
+} */
+
+.banner {
+    background-size: 10px;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.titreHeader {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 500%;
+}
+
+.text-header {
+    font-family: 'Pacifico', cursive;
+    color: rgb(196, 236, 223);
+    font-size: 200%;
+}
+
+
+.navbar {
+    width: 100%;
+}
+
+.description {
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    background-color: #47423f;
+}
+
+.produit {
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    background-color: #30231c;
+}
+
+.titre {
+    font-family: 'Pacifico', cursive;
+    color:white;
+}
+
+.titre2 {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    border-color: #47423f;
+    background-color: #30231c;
+    padding : 5px;
+}
+
+.titre3 {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    border-color: #47423f;
+    background-color: #30231c;
+    padding: 0px 5px 25px 0px;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-family: 'Contrail One', cursive;
+    color:white;
+}
+
+.product {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+}
+.productModal {
+    width: 100%;
+    height: 100%;
+    border-width: 4px;
+    border-radius: 20px;
+}
+
+.text-modal{
+    color: #000000;
+}
+
+span {
+    color: #fdba00;
+}
