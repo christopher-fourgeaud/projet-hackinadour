@@ -6,6 +6,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <!-- Titre modal produit 4 -->
                 <h4 class="modal-title text-center">Filtre Céramique Régénérable</h4>
             </div>
             <div class="modal-body">
@@ -17,6 +18,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
                         <br>
+                        <!-- Description produit 3 -->
                         <p class="text-modal">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nisi sagittis, euismod mi tempus, tincidunt velit. Ut
                             sit amet sapien augue. Aliquam erat volutpat. Nulla ac blandit enim. Lorem ipsum dolor sit amet, consectetur

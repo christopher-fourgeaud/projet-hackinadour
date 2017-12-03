@@ -4,7 +4,7 @@
 <?php include("template/modalp4.php") ?>
 
 <div class="row">
-    <div class="col-md-12 col-xs-12 description">
+    <!-- <div class="col-md-12 col-xs-12 description">
         <u>
             <h4 class="text-center titre">Description du projet</h4>
         </u>
@@ -38,9 +38,9 @@
 
 
         </p>
-    </div>
+    </div> -->
     <div class="col-md-8 col-md-offset-2">
-        <hr>
+        <!-- <hr> -->
     </div>
     <br>
 </div>
@@ -122,20 +122,19 @@
         <div class="row">
             <br>
             <div class="col-md-4">
-                <img class="product" src="assets/images/product1.jpg" alt="Produit n°1">
+                <img class="product" src="assets/images/product4.jpg" alt="Produit n°1">
             </div>
             <div class="col-md-7">
                 <!-- Titre du produit -->
                 <a data-toggle="modal" data-target="#modalp4" href="">
                     <u>
-                        <h4 class="text-center titre">Description du produit</h4>
+                        <h4 class="text-center titre">Electronique</h4>
                     </u>
                 </a>
             </div>
         </div>
         <br>
         <!-- Paragraphe de description (court) -->
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean congue faucibus aliquam. Maecenas quis lacus urna.
-            Maecenas urna dolor, commodo ut neque id, commodo scelerisque sapien.</p>
+        <p>Système electronique d'analyse, d'utilisation et de rendement via appli mobile.</p>
     </div>
     <!-- Fin quatrième produit -->
