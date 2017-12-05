@@ -6,6 +6,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <!-- Titre modal produit 1 -->
                 <h4 class="modal-title text-center">C.E.P.S.</h4>
             </div>
             <div class="modal-body">
@@ -18,12 +19,14 @@
                     <div class="col-md-10 col-md-offset-1">
                         <br>
                         <p class="text-modal">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nisi sagittis, euismod mi tempus, tincidunt velit. Ut
-                            sit amet sapien augue. Aliquam erat volutpat. Nulla ac blandit enim. Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Ut dolor leo, dapibus id semper efficitur, eleifend quis orci. Morbi vitae nulla sit amet massa
-                            vehicula tristique eget nec lacus. Vestibulum finibus dolor sed ullamcorper pellentesque. Integer condimentum
-                            justo in augue euismod viverra. In eu ipsum sapien. Fusce in efficitur turpis, ac rutrum quam. Donec consequat
-                            eros vel turpis bibendum, vel sodales quam rhoncus.
+                            - Haute performance energétique et environnementale (HPEE).<br>
+                            - Rendement energétique moyen de 92% (80% pour les poêles actuellement disponibles sur le marché).<br>
+                            - Emission polluante faible de 150 ppm (1500 ppm pour les poêles traditionnels).<br>
+                            - Système de combustion breveté CLIOp.<br>
+                            - Performance élevée.<br>
+                            - Simplicité d'installation.<br>
+                            - Facilité d'usage.<br>
+                            - Durée de vie autour de 15 ans (ensemble des pièces interchangeables).<br>
                         </p>
                     </div>
                 </div>

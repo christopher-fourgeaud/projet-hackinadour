@@ -20,12 +20,10 @@
                         <br>
                         <!-- Description produit 2 -->
                         <p class="text-modal">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nisi sagittis, euismod mi tempus, tincidunt velit. Ut
-                            sit amet sapien augue. Aliquam erat volutpat. Nulla ac blandit enim. Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Ut dolor leo, dapibus id semper efficitur, eleifend quis orci. Morbi vitae nulla sit amet massa
-                            vehicula tristique eget nec lacus. Vestibulum finibus dolor sed ullamcorper pellentesque. Integer condimentum
-                            justo in augue euismod viverra. In eu ipsum sapien. Fusce in efficitur turpis, ac rutrum quam. Donec consequat
-                            eros vel turpis bibendum, vel sodales quam rhoncus.
+                            - Un procèdé de combustion latérale inférieure développée en Autriche et en Suisse mais avec une optimisation poussée : dimensions chambre de pyrolyse + multi-injection d'air secondaire + chambre de prémélange.<br>
+                            - Un mélange optimal dans la chambre de developpement de la flamme entre les gaz combustibles et l'oxygène de l'air secondaire pour maintenir pendant un temps suffisament long une température de flamme (900°C / 1000°C)<br>
+                            - Tout ceci permet de garantir de très hautes performances environnementales avec un coût de production compétitif.
+
                         </p>
                     </div>
                 </div>

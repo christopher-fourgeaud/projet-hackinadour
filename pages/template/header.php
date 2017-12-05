@@ -6,7 +6,7 @@
             <h1 class="titreHeader text-center titre3">InsPyr</h1><br>
         </div>
         <div class="col-md-12">
-            <p class="text-header text-center titre2">Des solutions inovantes pour l'amélioration de la performance du chauffage bois.</p>      
+            <p class="text-header text-center titre2">Le BOIS-ENERGIE au service de la qualité de l'air du territoire.</p>      
         </div>    
         <div class="col-md-12 hidden-xs">
             <img class="banner" src="assets/images/banner.jpg" alt="Bannière" width="100%">

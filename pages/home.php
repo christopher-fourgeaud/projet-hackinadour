@@ -4,45 +4,44 @@
 <?php include("template/modalp4.php") ?>
 
 <div class="row">
-    <!-- <div class="col-md-12 col-xs-12 description">
+    <div class="col-md-12 col-xs-12 description">
         <u>
-            <h4 class="text-center titre">Description du projet</h4>
+            <h4 class="text-center titre">La problématique liée au chauffage bois</h4>
         </u>
         <br>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec nisi sagittis, euismod mi tempus, tincidunt velit. Ut
-            sit amet sapien augue. Aliquam erat volutpat. Nulla ac blandit enim. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Ut dolor leo, dapibus id semper efficitur, eleifend quis orci. Morbi vitae nulla sit amet massa
-            vehicula tristique eget nec lacus. Vestibulum finibus dolor sed ullamcorper pellentesque. Integer condimentum
-            justo in augue euismod viverra. In eu ipsum sapien. Fusce in efficitur turpis, ac rutrum quam. Donec consequat
-            eros vel turpis bibendum, vel sodales quam rhoncus. Duis sit amet interdum lorem. Nulla euismod sagittis congue.
-            Aliquam convallis ex et metus imperdiet efficitur. Etiam viverra bibendum neque, ac congue tortor euismod sit
-            amet. Ut ut enim sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-            Cras convallis enim diam, id laoreet arcu commodo eget. Quisque ac congue nibh. Praesent consectetur ligula felis,
-            eu elementum felis dictum eu. Aliquam rhoncus pharetra dolor id tincidunt. Praesent semper tempor augue vitae
-            euismod. Cras ut pretium velit. Sed vel sapien tincidunt, tincidunt est nec, mollis velit. Fusce imperdiet orci
-            vel velit congue pretium. Nam ac congue enim. Suspendisse porttitor ultrices turpis vitae maximus. Praesent tincidunt
-            laoreet enim, id vehicula orci placerat at. Nunc ultricies, urna nec semper malesuada, nunc lorem commodo nulla,
-            sed rhoncus justo ipsum sagittis tellus. Aenean tincidunt erat in iaculis blandit. Integer in convallis eros,
-            eget posuere urna. Sed feugiat condimentum enim, sit amet molestie lacus placerat a. Quisque nec lectus consequat,
-            sollicitudin nulla quis, consectetur quam. Suspendisse eu purus fermentum, accumsan diam non, pretium ante. Lorem
-            ipsum dolor sit amet, consectetur adipiscing elit. Nunc est libero, pellentesque eget viverra sit amet, lacinia
-            at tortor. Nam felis dolor, imperdiet id venenatis sed, pellentesque et velit. Duis augue mi, vestibulum nec
-            volutpat non, posuere non quam. Fusce viverra ex sapien, non viverra eros porttitor id. Integer venenatis tempus
-            massa, ac ultricies nulla rutrum nec. Pellentesque dictum tristique lacus, ac vestibulum felis posuere a. Donec
-            ac ex faucibus, commodo nibh a, pulvinar mauris. Proin convallis eu libero eu ornare. Cras volutpat rhoncus urna,
-            ac ullamcorper metus. Quisque ex ex, pulvinar non malesuada et, mollis at magna. Nulla interdum a ligula sed
-            luctus. Vestibulum accumsan lorem sapien. Etiam fringilla nisi ac sem scelerisque cursus. Mauris vulputate, augue
-            vel molestie maximus, ex magna efficitur elit, in pellentesque ante turpis quis felis. Orci varius natoque penatibus
-            et magnis dis parturient montes, nascetur ridiculus mus. Cras vel sagittis sapien, eget placerat nibh.
-
+        <p class="text-center">- La combustion de biomasse est une source importante de pollution atmosphérique. C'est la première source de particule en hiver.
+            <br><br>
+            - Parmi la liste des substances émises on trouve des particules fines : monoxyde de carbone - oxydes d'azote - composés organiques volatils - acroléine - formaldéhyde - hydrocarbures aromatiques polycliniques - dioxines - furanes. 
 
         </p>
-    </div> -->
+    </div>
     <div class="col-md-8 col-md-offset-2">
         <!-- <hr> -->
     </div>
     <br>
+    <div class="col-md-12 col-xs-12 description">
+        <u>
+            <h4 class="text-center titre">Notre raison d'être</h4>
+        </u>
+        <br>
+        <p class="text-center"> InsPyr apporte des solutions pour la performance énergétique, économique et environnementale de votre chauffage bois.
+            
+        </p>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+        <!-- <hr> -->
+    </div>
+    <div class="col-md-12 col-xs-12 description">
+        <u>
+            <h4 class="text-center titre">Notre valeur ajoutée</h4>
+        </u>
+        <br>
+        <p class="text-center">InsPyr transforme une énergie polluante en énergie propre.</p>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+        <!-- <hr> -->
+    </div>
+
 </div>
 <!-- Première rangée de produits -->
 <div class="row">
@@ -68,7 +67,7 @@
         </div>
         <br>
         <!-- Paragraphe de description (court) -->
-                <p>Une gamme de <span>C</span>hauffages <span>E</span>conomique <span>P</span>erformant <span>S</span>olidaire</p>
+                <p>Une gamme de <span>C</span>hauffages <span>E</span>conomiques <span>P</span>erformants et <span>S</span>olidaires</p>
     </div>
     <!-- Fin premier produit -->
     <!-- Début deuxieme produit -->
@@ -82,14 +81,14 @@
                 <!-- Titre du produit -->
                 <a data-toggle="modal" data-target="#modalp2" href="">
                     <u>
-                        <h4 class="text-center titre">Chambre de combustion</h4>
+                        <h4 class="text-center titre">Chambre de combustion adaptable à votre poêle actuel.</h4>
                     </u>
                 </a>
             </div>
         </div>
         <br>
         <!-- Paragraphe de description (court) -->
-        <p>Description de la chambre à combustion.</p>
+        <p>Une Chambre de combustion latérale inférieure avec une optimisation poussée (technologie CLIOp).</p>
     </div>
 </div>
 <!-- Fin deuxieme produit -->
@@ -113,8 +112,7 @@
         </div>
         <br>
         <!-- Paragraphe de description (court) -->
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean congue faucibus aliquam. Maecenas quis lacus urna.
-            Maecenas urna dolor, commodo ut neque id, commodo scelerisque sapien.</p>
+        <p>Filtre avec extracteur adaptable au conduit actuel.</p>
     </div>
     <!-- Fin troisème produit -->
     <!-- Début quatrième produit -->
@@ -128,13 +126,25 @@
                 <!-- Titre du produit -->
                 <a data-toggle="modal" data-target="#modalp4" href="">
                     <u>
-                        <h4 class="text-center titre">Electronique</h4>
+                        <h4 class="text-center titre">Système de gestion et de commande electronique.</h4>
                     </u>
                 </a>
             </div>
         </div>
         <br>
         <!-- Paragraphe de description (court) -->
-        <p>Système electronique d'analyse, d'utilisation et de rendement via appli mobile.</p>
+        <p>Manchon avec capteur intégré en sortie de conduit pour analyse de la pollution et du rendement du poêle.<br><br>
+            Alerte filtre / Alerte chargement / Réglage combustion / Impact environnement / Gestion débit d'air primaire et secondaire</p>
     </div>
     <!-- Fin quatrième produit -->
+    <br><br>
+        <div class="col-md-12 col-xs-12 description">
+        <u>
+            <h4 class="text-center titre">Notre ambition</h4>
+        </u>
+        <br>
+        <p class="text-center">Contribuer à faire des Hautes-Pyrénées un TERRITOIRE OXYGENE de référence.</p>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+        <!-- <hr> -->
+    </div>
